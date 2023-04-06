@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Antonio de Jesus</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h1 align="left"> Hi, 👋 I´am Antonio de Jesus Gonzalez Castro </h1>
+<h3 align="left">A passionate fronted developer from Mexico </h3>
 
-![Antonio](https://user-images.githubusercontent.com/46658342/230466762-c07190f5-103e-4d30-8d94-acfc662c7ca3.png)
+![Antonio](https://user-images.githubusercontent.com/46658342/230473585-ed57a33b-b44d-413f-8e23-e9fdea127d71.png)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
