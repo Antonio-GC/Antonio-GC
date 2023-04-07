@@ -22,7 +22,7 @@
 - I like to talk about current technology issues and how to support the community 👨🏻‍💻
  
  
-<br><br>
+<br>
 
 
 
