@@ -51,17 +51,8 @@
 
 </p>
 
-<br>
-<br>
 
 -----  
-  <h3 align="left">Languages and Tools:</h3>
-
-
-  
-<p align="center">
-
-
 
 
 # 📊 GitHub Stats:
@@ -71,8 +62,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=antonio-gc&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+  
+-----    
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me 📭 📨</h3>
 <p align="center">
 <a href="https://codepen.io/@jegonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jegonzalez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antonio de jesus gonzalez castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio de jesus gonzalez castro" height="30" width="40" /></a>
