@@ -11,7 +11,7 @@
 Soy un desarrollador de software apasionado por crear aplicaciones eficientes y escalables. Con una sólida experiencia en desarrollo web y un gran interés en las últimas tecnologías, me esfuerzo por construir soluciones que marquen la diferencia.
 
 ### 📫 Cómo contactarme:
-- 📧 Email: [antonio@example.com](mailto:jegonzalez.developer@gmail.com)
+- 📧 Email: [jegonzalez.developer@gmail.com](mailto:jegonzalez.developer@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/antonio-gc](https://linkedin.com/in/antonio-gc)
 - 📸 Instagram: [@antonio_gc](https://instagram.com/antonio_gc)
 
