@@ -2,70 +2,48 @@
 
 ![antoniogc](https://github.com/Antonio-GC/Antonio-GC/assets/46658342/94207dc4-12e4-4f11-b4cc-16801e5f28d8)
 
+# ¡Hola, soy Antonio! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Antonio-GC&color=blue)
 
-<h1 align="left">I'm <a href="https://github.com/Antonio-GC">Antonio de Jesus Gonzalez Castro <a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
+## Sobre mí
 
-  
-<br>
+Soy un desarrollador de software apasionado por crear aplicaciones eficientes y escalables. Con una sólida experiencia en desarrollo web y un gran interés en las últimas tecnologías, me esfuerzo por construir soluciones que marquen la diferencia.
 
-  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### 📫 Cómo contactarme:
+- 📧 Email: [antonio@example.com](mailto:antonio@example.com)
+- 🌐 LinkedIn: [linkedin.com/in/antonio-gc](https://linkedin.com/in/antonio-gc)
+- 📸 Instagram: [@antonio_gc](https://instagram.com/antonio_gc)
 
-<picture> </picture>
+### 🔭 Actualmente estoy trabajando en:
+- 🌐 Construcción de una aplicación web front-end utilizando React, Tailwind, Material-UI, Astro, y JavaScript.
+- 🤖 Exploración de las posibilidades de la IA y el machine learning en el desarrollo de software.
+- 👨‍💻 Contribución a proyectos de código abierto y colaboración con la comunidad de desarrolladores.
 
-<br>
+### 🌱 Actualmente estoy aprendiendo:
+- 📘 Técnicas avanzadas de TypeScript.
+- 🎨 Diseño UI.
+- 🖥️ Node.js.
+- ☁️ Computación en la nube con AWS.
 
-- I am a Front End Developer, I am always studying and learning new technologies 💻
-- I am passionate about reading and technology, I love to read in my free time topics related to philosophy, technology and articles 📚
-- I am currently taking a diploma course in web application development at the Universidad Anahuac 👨🏻‍🎓
-- My phrase is "discipline will sooner or later defeat intelligence" 🤓
-- I like to talk about current technology issues and how to support the community 👨🏻‍💻
- 
- 
-<br>
+### 💼 Habilidades técnicas:
+- **Lenguajes:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+- **Frameworks:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro) ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
+- **Herramientas:** ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Contentful](https://img.shields.io/badge/-Contentful-black?style=flat-square&logo=contentful)
 
+### 🚀 Proyectos:
+- [**Us-tech-ingenieros**](https://www.us-tech.com.mx/es): Se diseñó y desarrolló la página web específicamente para un cliente que se especializa en la instalación de habitaciones limpias, adaptando completamente el diseño al giro de su negocio.
+- [**Archie-cloudies**](https://www.cloudbuddies.io/): Aplicación web enfocada para el despliegue en la nube, facilitando a los usuarios hacer sus deploy.
+- [**Hurakan**](https://www.hurakantulum.com/): Cliente dedicado a ventas inmobiliarias ecológicas en Tulum. Enfocamos el desarrollo de su página web utilizando React, Next.js y Tailwind para optimizar la experiencia del usuario y reflejar la esencia ecológica de su negocio.
 
+### 👯 Busco colaborar en:
+- Proyectos de código abierto relacionados con el desarrollo web y la IA.
+- Startups innovadoras e iniciativas tecnológicas, consultoría de software.
+- Eventos y hackathons impulsados por la comunidad de desarrolladores.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+### ⚡ Dato curioso:
+Me encanta la filosofía y lecturas relacionadas a ciencia ficción y el ajedrez.
 
-    
-    
-- **Front-End Development**:
+---
 
-  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<br></p>
-
-
-- **Softwares and Tools**:
-
-    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-
-<br>
-
-- **Extras**:
-
-  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
-
-</p>
-
-
------  
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=antonio-gc&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-  
------    
-
-<h3 align="center">Connect with me 📭 📨</h3>
-<p align="center">
-<a href="https://codepen.io/@jegonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jegonzalez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antonio de jesus gonzalez castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio de jesus gonzalez castro" height="30" width="40" /></a>
-<a href="https://fb.com/antonio gonzalez castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antonio gonzalez castro" height="30" width="40" /></a>
-<a href="https://instagram.com/antonio.corporativo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antonio.corporativo" height="30" width="40" /></a>
-</p>
-
-
+¡No dudes en explorar mis repositorios y ponerte en contacto si te gustaría colaborar en proyectos emocionantes! ¡Construyamos algo increíble juntos!
