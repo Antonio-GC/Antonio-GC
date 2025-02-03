@@ -20,21 +20,10 @@ Soy un desarrollador de software apasionado por crear aplicaciones eficientes y 
 - 🤖 Exploración de las posibilidades de la IA y el machine learning en el desarrollo de software.
 - 👨‍💻 Contribución a proyectos de código abierto y colaboración con la comunidad de desarrolladores.
 
-### 🌱 Actualmente estoy aprendiendo:
-- 📘 Técnicas avanzadas de TypeScript.
-- 🎨 Diseño UI.
-- 🖥️ Node.js.
-- ☁️ Computación en la nube con AWS.
-
 ### 💼 Habilidades técnicas:
 - **Lenguajes:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 - **Frameworks:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro) ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 - **Herramientas:** ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Contentful](https://img.shields.io/badge/-Contentful-black?style=flat-square&logo=contentful)
-
-### 🚀 Proyectos:
-- [**Us-tech-ingenieros**](https://www.us-tech.com.mx/es): Se diseñó y desarrolló la página web específicamente para un cliente que se especializa en la instalación de habitaciones limpias, adaptando completamente el diseño al giro de su negocio.
-- [**Archie-cloudies**](https://www.cloudbuddies.io/): Aplicación web enfocada para el despliegue en la nube, facilitando a los usuarios hacer sus deploy.
-- [**Hurakan**](https://www.hurakantulum.com/): Cliente dedicado a ventas inmobiliarias ecológicas en Tulum. Enfocamos el desarrollo de su página web utilizando React, Next.js y Tailwind para optimizar la experiencia del usuario y reflejar la esencia ecológica de su negocio.
 
 ### 👯 Busco colaborar en:
 - Proyectos de código abierto relacionados con el desarrollo web y la IA.
