@@ -13,7 +13,7 @@ Soy un desarrollador de software apasionado por crear aplicaciones eficientes y 
 ### 📫 Cómo contactarme:
 - 📧 Email: [jegonzalez.developer@gmail.com](mailto:jegonzalez.developer@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/antonio-gc](https://linkedin.com/in/antonio-gc)
-- 📸 Instagram: [@antonio_gc](https://instagram.com/antonio_gc)
+- 💼 portafolio: [antoniogc](https://www.antoniogc.com/)
 
 ### 🔭 Actualmente estoy trabajando en:
 - 🌐 Construcción de una aplicación web front-end utilizando React, Tailwind, Material-UI, Astro, y JavaScript.
