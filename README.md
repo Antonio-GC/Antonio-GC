@@ -15,16 +15,6 @@ Estoy muy interesado en seguir aprendiendo y participando en proyectos interesan
 - 🌐 LinkedIn: [linkedin.com/in/antonio-gc](https://linkedin.com/in/antonio-gc)
 - 💼 portafolio: [antoniogc](https://www.antoniogc.com/)
 
-### 🔭 Actualmente estoy trabajando en:
-- 🌐 Construcción de una aplicación web front-end utilizando React, Tailwind, Material-UI, Astro, y JavaScript.
-- 🤖 Exploración de las posibilidades de la IA y el machine learning en el desarrollo de software.
-- 👨‍💻 Contribución a proyectos de código abierto y colaboración con la comunidad de desarrolladores.
-
-### 💼 Habilidades técnicas:
-- **Lenguajes:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro) ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
-- **Herramientas:** ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) ![Contentful](https://img.shields.io/badge/-Contentful-black?style=flat-square&logo=contentful)
-
 ### 👯 Busco colaborar en:
 - Proyectos de código abierto relacionados con el desarrollo web y la IA.
 - Startups innovadoras e iniciativas tecnológicas, consultoría de software.
