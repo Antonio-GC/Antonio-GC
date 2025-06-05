@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador de software apasionado por crear aplicaciones eficientes y escalables. Con una sólida experiencia en desarrollo web y un gran interés en las últimas tecnologías, me esfuerzo por construir soluciones que marquen la diferencia.
+Estoy muy interesado en seguir aprendiendo y participando en proyectos interesantes. Me enfoco especialmente en colaborar con proyectos de código abierto, ya que me permiten mejorar continuamente mis habilidades como desarrollador.
 
 ### 📫 Cómo contactarme:
 - 📧 Email: [jegonzalez.developer@gmail.com](mailto:jegonzalez.developer@gmail.com)
